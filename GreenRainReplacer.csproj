@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <OutputPath>../Mods/GreenRainReplacer</OutputPath>
+    <AssemblyName>GreenRainReplacer</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="StardewModdingAPI">
+      <HintPath>../SMAPI/StardewModdingAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="StardewValley">
+      <HintPath>../SMAPI/StardewValley.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

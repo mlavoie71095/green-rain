@@ -1,0 +1,9 @@
+{
+  "Name": "GreenRainReplacer",
+  "Author": "ChatGPT + You",
+  "Version": "1.0.0",
+  "Description": "Replaces normal rain with green rain, but allows sunny days.",
+  "UniqueID": "You.GreenRainReplacer",
+  "EntryDll": "GreenRainReplacer.dll",
+  "MinimumApiVersion": "3.0.0"
+}
